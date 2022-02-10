@@ -24,8 +24,8 @@
 
 - Clone this project
 - Navigate to Project Directory
-- Run following commands : -- npm install -- npm start
-- These commands will install all required dependencies for the project.
+- Run following commands : -- npm install 
+- This command will install all required dependencies for the project.
 
 ## Technology used:
 
